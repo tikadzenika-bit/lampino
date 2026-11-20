@@ -90,7 +90,7 @@ var TEXT = {
     'ct.phone': 'ტელეფონი / WhatsApp', 'ct.email': 'ელფოსტა', 'ct.visit': 'შეთანხმდი ვიზიტზე',
     'ct.map': 'Lampino — რუკა: ანტონ ფურცელაძის ქ. 30, თბილისი',
     'ft.ship': 'გაგზავნა მსოფლიოს ნებისმიერ ქვეყანაში — პირობები ზუსტდება, დეტალებისთვის მოგვწერე.',
-    'ft.by': 'საიტის კონცეფცია: NNN Holding'
+    'ft.by': 'საიტის კონცეფცია: Gridline'
   },
   en: {
     'meta.title': 'Lampino — handmade lamps inspired by Old Tbilisi',
@@ -141,7 +141,7 @@ var TEXT = {
     'ct.phone': 'Phone / WhatsApp', 'ct.email': 'Email', 'ct.visit': 'Arrange a visit',
     'ct.map': 'Lampino on the map: 30 Anton Purtseladze St, Tbilisi',
     'ft.ship': 'Worldwide shipping: terms to be confirmed. Write to us for details.',
-    'ft.by': 'Site concept: NNN Holding'
+    'ft.by': 'Site concept: Gridline'
   }
 };
 
